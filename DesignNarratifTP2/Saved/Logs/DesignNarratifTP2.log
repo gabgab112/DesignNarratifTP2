@@ -605,3 +605,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-16.13.08:638][213]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMapB4081EBC4A8144738CB08EACF9544385.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
 [2021.03.01-16.13.08:653][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap_BuiltData" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset" SILENT=true
 [2021.03.01-16.13.08:671][213]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMap_BuiltData1B383BEB48BEC592A1DF9EBDDD6446FD.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset'
+[2021.03.01-16.29.12:357][871]LogAssetEditorManager: Opening Asset editor for World /Game/FirstMap.FirstMap
+[2021.03.01-16.29.12:381][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.03.01-16.29.12:382][871]Cmd: MAP LOAD FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.01-16.29.12:382][871]LightingResults: New page: Lighting Build
+[2021.03.01-16.29.12:383][871]LoadErrors: New page: Loading map: FirstMap.umap
+[2021.03.01-16.29.12:384][871]MapCheck: New page: Map Check
+[2021.03.01-16.29.12:384][871]LightingResults: New page: Lighting Build
+[2021.03.01-16.29.12:432][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.03.01-16.29.12:439][871]LogAIModule: Creating AISystem for world FirstMap
+[2021.03.01-16.29.12:501][871]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.01-16.29.12:526][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.03.01-16.29.12:532][871]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.01-16.29.12:532][871]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.03.01-16.29.12:533][871]LogFileHelpers: Loading map 'FirstMap' took 0.152
