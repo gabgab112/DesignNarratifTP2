@@ -619,3 +619,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-16.29.12:532][871]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.03.01-16.29.12:532][871]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
 [2021.03.01-16.29.12:533][871]LogFileHelpers: Loading map 'FirstMap' took 0.152
+[2021.03.01-16.42.19:958][489]LogAssetEditorManager: Opening Asset editor for World /Game/FirstMap.FirstMap
+[2021.03.01-16.42.19:979][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.01-16.42.19:981][489]Cmd: MAP LOAD FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.01-16.42.19:981][489]LightingResults: New page: Lighting Build
+[2021.03.01-16.42.19:982][489]LoadErrors: New page: Loading map: FirstMap.umap
+[2021.03.01-16.42.19:982][489]MapCheck: New page: Map Check
+[2021.03.01-16.42.19:982][489]LightingResults: New page: Lighting Build
+[2021.03.01-16.42.20:005][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.03.01-16.42.20:013][489]LogAIModule: Creating AISystem for world FirstMap
+[2021.03.01-16.42.20:093][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.01-16.42.20:114][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.01-16.42.20:121][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.01-16.42.20:121][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,135ms to complete.
+[2021.03.01-16.42.20:122][489]LogFileHelpers: Loading map 'FirstMap' took 0.142
+[2021.03.01-16.42.34:822][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.03.01-16.42.37:001][481]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.01-16.42.38:405][625]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.01-16.42.40:314][829]Cmd: TRANSACTION UNDO
+[2021.03.01-16.42.40:314][829]LogEditorTransaction: Undo Move Actors
+[2021.03.01-16.42.42:065][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.01-16.42.42:681][ 87]Cmd: TRANSACTION UNDO
+[2021.03.01-16.42.42:681][ 87]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-16.42.43:108][136]Cmd: TRANSACTION UNDO
+[2021.03.01-16.42.43:108][136]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-16.42.43:460][178]Cmd: TRANSACTION UNDO
+[2021.03.01-16.42.43:460][178]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-16.42.44:144][257]Cmd: TRANSACTION UNDO
+[2021.03.01-16.42.44:144][257]LogEditorTransaction: Undo Move Actors
+[2021.03.01-16.42.44:515][300]Cmd: TRANSACTION UNDO
+[2021.03.01-16.42.44:515][300]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-16.42.46:225][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.01-16.42.46:343][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.01-16.42.46:369][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.01-16.42.46:458][517]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMapCF3EFECE402010DB777A2BA90223A654.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
