@@ -653,3 +653,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-16.42.46:343][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2021.03.01-16.42.46:369][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
 [2021.03.01-16.42.46:458][517]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMapCF3EFECE402010DB777A2BA90223A654.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
+[2021.03.01-16.43.40:913][908]LogAssetEditorManager: Opening Asset editor for World /Game/FirstMap.FirstMap
+[2021.03.01-16.43.40:935][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.03.01-16.43.40:936][908]Cmd: MAP LOAD FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.01-16.43.40:936][908]LightingResults: New page: Lighting Build
+[2021.03.01-16.43.40:937][908]LoadErrors: New page: Loading map: FirstMap.umap
+[2021.03.01-16.43.40:937][908]MapCheck: New page: Map Check
+[2021.03.01-16.43.40:937][908]LightingResults: New page: Lighting Build
+[2021.03.01-16.43.40:959][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.03.01-16.43.40:967][908]LogAIModule: Creating AISystem for world FirstMap
+[2021.03.01-16.43.41:057][908]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.01-16.43.41:080][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.03.01-16.43.41:087][908]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.01-16.43.41:087][908]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2021.03.01-16.43.41:088][908]LogFileHelpers: Loading map 'FirstMap' took 0.153
+[2021.03.01-16.45.40:125][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.01-16.45.41:353][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.01-16.45.52:952][276]LogSlate: Window 'Source Control Login' being destroyed
+[2021.03.01-16.46.06:308][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.01-16.46.06:614][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.01-16.46.06:619][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.01-16.46.06:649][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.01-16.46.06:741][831]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMapD608496545A164E07E934396D8C3314F.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
