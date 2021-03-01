@@ -587,3 +587,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-17.05.46:378][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Content/NewMap_BuiltData.uasset" SILENT=true
 [2021.03.01-17.05.46:413][198]LogSavePackage: Moving '../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Saved/NewMap_BuiltDataDC6E892545CBC1DE62C64AACAFD2BF94.tmp' to '../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Content/NewMap_BuiltData.uasset'
 [2021.03.01-17.05.46:420][198]LogFileHelpers: Saving map 'NewMap' took 0.940
+[2021.03.01-17.07.38:845][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.01-17.07.40:001][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.03.01-17.07.40:008][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.01-17.07.40:018][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sacha" FILE="../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Content/Sacha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.01-17.07.40:045][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.01-17.07.40:062][858]LogSavePackage: Moving '../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Saved/Sacha80861849499028FC00FB5FB2870506B7.tmp' to '../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Content/Sacha.umap'
+[2021.03.01-17.07.40:064][858]LogFileHelpers: Saving map 'Sacha' took 0.047
