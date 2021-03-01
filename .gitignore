@@ -72,4 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-DesignNarratifTP2/Saved/Logs/DesignNarratifTP2.log
+*.log
