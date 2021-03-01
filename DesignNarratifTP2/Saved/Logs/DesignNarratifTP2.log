@@ -576,3 +576,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-16.11.35:089][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2021.03.01-16.12.05:949][357]LogActorFactory: Actor Factory created Cube
 [2021.03.01-16.12.06:878][438]LogActorFactory: Actor Factory created Cube
+[2021.03.01-16.12.21:957][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.01-16.12.34:920][898]LogSlate: Window 'Save Level As' being destroyed
+[2021.03.01-16.12.34:975][898]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.01-16.12.35:038][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.03.01-16.12.35:070][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.01-16.12.35:104][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.03.01-16.12.35:840][898]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMap7072BD1444503FFB2C6FA4A7A7138951.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
+[2021.03.01-16.12.35:940][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap_BuiltData" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset" SILENT=true
+[2021.03.01-16.12.35:973][898]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMap_BuiltDataF5CA9BAA4B23334E08FB339F34EE85B3.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset'
+[2021.03.01-16.12.35:978][898]LogFileHelpers: Saving map 'FirstMap' took 1.005
