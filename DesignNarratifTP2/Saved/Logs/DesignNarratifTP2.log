@@ -600,3 +600,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-16.40.36:763][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap" FILE="../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2021.03.01-16.40.36:796][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
 [2021.03.01-16.40.36:927][646]LogSavePackage: Moving '../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMap24848D8949ED973F81B85E943FBC68C7.tmp' to '../../../../../PorjetOnTheSide/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
+[2021.03.01-16.41.25:726][785]LogSlate: Took 0.029794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
