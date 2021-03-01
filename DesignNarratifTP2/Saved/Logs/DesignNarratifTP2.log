@@ -586,3 +586,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-16.12.35:940][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap_BuiltData" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset" SILENT=true
 [2021.03.01-16.12.35:973][898]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMap_BuiltDataF5CA9BAA4B23334E08FB339F34EE85B3.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset'
 [2021.03.01-16.12.35:978][898]LogFileHelpers: Saving map 'FirstMap' took 1.005
+[2021.03.01-16.13.06:921][ 92]LogAssetEditorManager: Opening Asset editor for World /Game/FirstMap.FirstMap
+[2021.03.01-16.13.06:951][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.03.01-16.13.07:022][ 92]Cmd: MAP LOAD FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.01-16.13.07:022][ 92]LightingResults: New page: Lighting Build
+[2021.03.01-16.13.07:022][ 92]LoadErrors: New page: Loading map: FirstMap.umap
+[2021.03.01-16.13.07:110][ 92]MapCheck: New page: Map Check
+[2021.03.01-16.13.07:110][ 92]LightingResults: New page: Lighting Build
+[2021.03.01-16.13.07:135][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.03.01-16.13.07:146][ 92]LogAIModule: Creating AISystem for world FirstMap
+[2021.03.01-16.13.07:254][ 92]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.01-16.13.07:279][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.01-16.13.07:297][ 92]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.01-16.13.07:297][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,112ms to complete.
+[2021.03.01-16.13.07:298][ 92]LogFileHelpers: Loading map 'FirstMap' took 0.346
+[2021.03.01-16.13.08:519][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.01-16.13.08:543][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.01-16.13.08:638][213]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMapB4081EBC4A8144738CB08EACF9544385.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
+[2021.03.01-16.13.08:653][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap_BuiltData" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset" SILENT=true
+[2021.03.01-16.13.08:671][213]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMap_BuiltData1B383BEB48BEC592A1DF9EBDDD6446FD.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap_BuiltData.uasset'
