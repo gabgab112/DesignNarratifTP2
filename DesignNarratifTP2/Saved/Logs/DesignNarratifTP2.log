@@ -675,3 +675,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-16.46.06:619][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstMap" FILE="../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2021.03.01-16.46.06:649][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2021.03.01-16.46.06:741][831]LogSavePackage: Moving '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Saved/FirstMapD608496545A164E07E934396D8C3314F.tmp' to '../../../../../Cégep/Design Narratif/TP2/DesignNarratifTP2/DesignNarratifTP2/Content/FirstMap.umap'
+[2021.03.01-16.46.36:383][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
